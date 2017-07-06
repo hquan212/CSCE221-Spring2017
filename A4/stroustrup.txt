@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Stroustrup: Programming - Lecture slides</title>
+</head>
+
+
+<body>
+
+
+<center>
+<h1>Programming - Lecture slides</h1>
+</center>
+
+
+<p align=right>
+Modified June 1, 2012.
+
+
+<p> dummy.ppt
+<p> dummy2.ppt
+
+
+<p>
+These are versions of slides used for lectures based on
+<a href="index.html">Programming: Principles and Practice using C++</a>.
+<p>
+Comments, improvements, bug reports, etc. are welcome. 
+<p>
+I update the slides when I gain experience of receive constructive comments. I try to remember to put dates on the slides.
+<p>
+Except for the first lecture, each set of slides corresponds to a book chapter:
+<ul>
+<li><a href="1-2_programming.ppt">Ch1-2: Programming and "Hello, World!"</a>
+<li><a href="3_types.ppt">Ch3: Objects, Types, and Values</a>
+<li><a href="4_computation.ppt">Ch4: Computation</a>
+<li><a href="5_errors.ppt">Ch5: Errors</a>
+<li><a href="6_writing.ppt">Ch6: Writing a program</a>
+<li><a href="7_completing.ppt">Ch7: Completing a program</a>
+<li><a href="8_functions.ppt">Ch8: Technicalities: Functions, etc.</a>
+<li><a href="9_classes.ppt">Ch9: Technicalities: Classes, etc.</a>
+<li><a href="10_iostreams.ppt">Ch10: Input/Output Streams</a>
+<li><a href="11_custom_io.ppt">Ch11: Customizing I/O</a>
+<li><a href="12_display.ppt">Ch12: A Display Model</a>
+<li><a href="13_graph_classes.ppt">Ch13: Graphics Classes</a>
+<li><a href="14_class_design.ppt">Ch14: Graphics Class Design</a>
+<li><a href="15_graphing.ppt">Ch15: Graphing Functions and Data</a>
+<li><a href="16_GUI.ppt">Ch16: Graphical User Interfaces</a>
+<li><a href="17_free_store.ppt">Ch17: Vector and Free Store</a>
+<li><a href="18_arrays.ppt">Ch18: Vectors and Arrays</a>
+<li><a href="19_vector.ppt">Ch19: Vector, Template, and Exceptions</a>
+<li><a href="20_containers.ppt">Ch20: Containers and Iterators</a>
+<li><a href="21_algorithms.ppt">Ch21: Algorithms and Maps</a>
+<li><a href="22_ideals.ppt">Ch22: Ideals and History</a>
+<li><a href="23_text.ppt">Ch23: Text Manipulation</a>
+<li><a href="24_numerics.ppt">Ch24: Numerics</a>
+<li><a href="25_embedded.ppt">Ch25: Embedded Systems Programming</a>
+<li><a href="26_testing.ppt">Ch26: Testing</a>
+<li><a href="27_C.ppt">Ch27: The C Programming Language</a>
+<p>
+<li><a href="Review_for_Final.ppt">Slides used as part of a review for a final exam</a>
+("Programming and C++ in 75 minutes")
+</ul>
+At my speed of lecturing (about two minutes per slide), this represents 28 hours of lecturing.
+See the
+<a href="PPP-guide.pdf">Instructor's Guide</a>
+for comments relating to the lectures.
+</body>
+</html>
